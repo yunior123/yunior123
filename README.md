@@ -5,7 +5,7 @@ Things I am passionate about:
 -Sharing knowledge and teaching others 👨‍🏫, empowering them to grow and succeed -Championing open-source initiatives to foster collaboration and innovation 
 -Embracing lifelong learning, staying curious and adapting to new challenges -Exploring emerging technologies to create impactful, future-oriented projects 
 -Competing in coding challenges and hackathons to push my problem-solving skills to the next level -Building communities that inspire growth, inclusivity, and shared purpose 
-* 🌍  I'm based in Levis, QC * ✉️  You can contact me at [98.frontal-castes@icloud.com](mailto:98.frontal-castes@icloud.com) * 🧠  I'm learning Rust, Golang, Kotlin and AWS Cloud Services * 🤝  I'm open to collaborating on interesting projects * ⚡  I love playing chess on my free time
+* 🌍  I'm based in Toronto, ON * ✉️  You can contact me at [98.frontal-castes@icloud.com](mailto:98.frontal-castes@icloud.com) * 🧠  I'm learning Rust, Golang, Kotlin and AWS Cloud Services * 🤝  I'm open to collaborating on interesting projects * ⚡  I love playing chess on my free time.
 
 ### Skills  
 
